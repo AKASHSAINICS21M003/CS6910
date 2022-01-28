@@ -21,6 +21,20 @@
     + Sentences:
       + Tokens: Crime, complain, police, municipality
       + Word dict: filter words from govt website.
+   + health care:
+      + for document purpose , medical history
+      + social impact:  it  create flexibility to provied efficient health care to rural areas.
+      + tokens : health , disease, medical related terms .
+   + In industry or workplace:
+    Search for reports or documents on your computer
+    Create a graph or tables using data
+    Dictate the information you want to be incorporated into a document
+    Print documents on request
+    Start video conferences
+    Schedule meetings
+    Record minutes
+    Make travel arrangements
+
 + Language:
   + Hindi
 
